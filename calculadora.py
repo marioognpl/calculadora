@@ -8,3 +8,10 @@ def suma():
     result = 5 + 8
     return result
 print (suma())
+
+# Resta
+
+def resta():
+    result = 8 - 4
+    return result
+print (resta())
