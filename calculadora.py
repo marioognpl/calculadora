@@ -15,3 +15,10 @@ def resta():
     result = 8 - 4
     return result
 print (resta())
+
+# Multiplicar
+
+def multi():
+    result = 5 * 3
+    return result
+print(multi())
