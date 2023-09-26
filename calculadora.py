@@ -23,4 +23,3 @@ def multi():
     return result
 print(multi())
 
-c
