@@ -24,7 +24,15 @@ def multi():
 print(multi())
 
 # Dividir
+
 def dividir():
     result = 5 / 3
     return result
 print(dividir())
+
+# Potencias
+
+def potencias();
+    result = 9 ** 3
+    return result
+print(potencias())
