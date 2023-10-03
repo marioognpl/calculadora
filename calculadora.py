@@ -23,3 +23,8 @@ def multi():
     return result
 print(multi())
 
+# Dividir
+def dividir():
+    result = 5 / 3
+    return result
+print(dividir())
